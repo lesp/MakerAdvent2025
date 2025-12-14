@@ -8,4 +8,4 @@ The circuit looks like this
 ![Image of the circuit made in Fritzing](https://raw.githubusercontent.com/lesp/MakerAdvent2025/refs/heads/main/Day%2014%20-%20ESP32%20C3%20Super%20Mini%20IoT%20Doorbell/esp32c3-doorbell.jpg)
 
 And these should be the only files in the root filesystem of your ESP32
-![Image of the ESP32 filesystem shoiwng three files, boot.py, doorbell.py and secrets.py](https://raw.githubusercontent.com/lesp/MakerAdvent2025/refs/heads/main/Day%2014%20-%20ESP32%20C3%20Super%20Mini%20IoT%20Doorbell/esp32c3-doorbell.jpg)
+![Image of the ESP32 filesystem shoiwng three files, boot.py, doorbell.py and secrets.py](https://raw.githubusercontent.com/lesp/MakerAdvent2025/refs/heads/main/Day%2014%20-%20ESP32%20C3%20Super%20Mini%20IoT%20Doorbell/ESP32%20Files.jpg)
