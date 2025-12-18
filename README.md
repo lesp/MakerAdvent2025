@@ -20,6 +20,6 @@ And these should be the only files in the root filesystem of your ESP32
 Usign Adafruit's excellent [guide](https://learn.adafruit.com/mp3-playback-rp2040/pico-mp3) for MP3 playback on the Raspberry Pi Pico, their [CircuitPython](https://circuitpython.org) firmware and a reed switch, I make a simple sound box as a surprise present.
 
 The circuit looks like this.
-
+![Image of the circuit](https://github.com/lesp/MakerAdvent2025/blob/main/Day%2018%20-%20Raspberry%20Pi%20Pico%20MP3%20Playback%20With%20CircuitPython/MA18-Circuit.png)
 
 You will need both of the files, code.py and Christmas-low.mp3 on your Raspberry Pi Pico.
