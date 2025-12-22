@@ -28,7 +28,10 @@ You will need both of the files, code.py and Christmas-low.mp3 on your Raspberry
 ![Image of the application](https://github.com/lesp/MakerAdvent2025/blob/main/Day%2022%20-%20Writing%20BASIC%20with%20QB64%20PE/MA22.jpg)
 I do enjoy writing in BASIC and QB64 PE is a more modern interpretation of the language and it has great support for creating multimedia content.
 In the Day 22 folder you will find all the project files, to recreate the project. Code, images and audio.
+
 ![Image of the virus scan](https://github.com/lesp/MakerAdvent2025/blob/main/Day%2022%20-%20Writing%20BASIC%20with%20QB64%20PE/Virus%20Scan.jpg)
+
+
 There is also the EXE file that I created in the video. This has been virus scanned and Malwarebytes reports that all is good!
 
 Happy Hacking.
