@@ -23,3 +23,10 @@ The circuit looks like this.
 ![Image of the circuit](https://github.com/lesp/MakerAdvent2025/blob/main/Day%2018%20-%20Raspberry%20Pi%20Pico%20MP3%20Playback%20With%20CircuitPython/MA18-Circuit.png)
 
 You will need both of the files, code.py and Christmas-low.mp3 on your Raspberry Pi Pico.
+
+## Day 22 Showing Images and Playing Audio with QB64 Phoenix Edition
+I do enjoy writing in BASIC and QB64 PE is a more modern interpretation of the language and it has great support for creating multimedia content.
+In the Day 22 folder you will find all the project files, to recreate the project. Code, images and audio. 
+There is also the EXE file that I created in the video. This has been virus scanned and Malwarebytes reports that all is good!
+
+Happy Hacking.
